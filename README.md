@@ -1,6 +1,6 @@
 <h1>Hola, soy Joaquín Linares</h1>
-<h2> Programador Blockchain&Full Stack</h2>
-<h2>📫 Contactame joacolinares2003@gmail.com</h2> 
+<h3> Programador Blockchain&Full Stack <br>
+📫 Contactame joacolinares2003@gmail.com</h3>
 
 
 
